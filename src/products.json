@@ -68,5 +68,15 @@
     "thumbnail": "https://m.media-amazon.com/images/I/61zjHIXj5zL._AC_UY327_FMwebp_QL65_.jpg",
     "inStock": true,
     "categoryId": "vfvwfavv"
+  },
+  {
+    "id": "8d",
+    "name": "Lenovo IdeaPad 5i",
+    "price": 1200,
+    "currency": "INR",
+    "delivery": true,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61kIoNSe3VL._SL1500_.jpg",
+    "inStock": false,
+    "categoryId": "sfyuavfusdf"
   }
 ]
