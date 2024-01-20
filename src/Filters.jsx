@@ -7,6 +7,7 @@ event.target.checked===true && setFilterSelected(prev=>[...prev,event.target.nam
 event.target.checked===false && setFilterSelected(prev=>prev.filter((iterator)=>
     iterator!==event.target.name
 ))
+
 }
 
     return (
