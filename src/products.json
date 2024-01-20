@@ -58,5 +58,15 @@
     "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61kIoNSe3VL._SL1500_.jpg",
     "inStock": true,
     "categoryId": "xasgy42fa"
+  },
+  {
+    "id": "7c",
+    "name": "HyperX PulseFire Haste",
+    "price": 50,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://m.media-amazon.com/images/I/61zjHIXj5zL._AC_UY327_FMwebp_QL65_.jpg",
+    "inStock": true,
+    "categoryId": "vfvwfavv"
   }
 ]
