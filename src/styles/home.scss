@@ -11,7 +11,7 @@
         justify-content: center;
         display: flex;
         align-items: center;
-        font-size: 2.7rem;
+        font-size: 2.2rem;
         height: 29vh;
         min-height: 250px;
         min-width: 250px;
@@ -26,6 +26,7 @@
             width: 30vh;
             height: 30vh;
             text-decoration-line: none;
+            border-radius: 2rem;
             color: rgb(79, 80, 82);
             letter-spacing: 0.06em;
             transition: all 0.3s ease-in-out;
